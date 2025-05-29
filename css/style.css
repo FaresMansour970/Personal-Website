@@ -16,8 +16,8 @@ body.dark{
 }
 body{
     line-height: 1.5;
-    font-size: 16px; 
-    font-family: 'Poppins' sans-serif;   
+    font-size: 16px;
+    font-family: 'Poppins' sans-serif;
 }
 *{
     margin: 0;
@@ -653,7 +653,7 @@ margin-bottom: 40px;
         flex: 0 0 50%;
         max-width: 50%;
     }
-    
+
     .home .home-info{
         flex: 0 0 100%;
     max-width: 100%;
@@ -676,3 +676,12 @@ margin-bottom: 40px;
         max-width: 100%;
     }
 }
+
+#BCS{color: #ec1839;
+    font-weight: bold;
+}
+#HS{color: #ec1839;
+    font-weight: bold;
+}
+#BCSvoise{font-weight: lighter;}
+#HSa{font-weight: lighter;}
